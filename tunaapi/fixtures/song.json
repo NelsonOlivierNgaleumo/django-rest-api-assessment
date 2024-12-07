@@ -1,0 +1,32 @@
+[
+  {
+      "model": "tunaapi.song",
+      "pk": 1,
+      "fields": {
+          "title": "My song",
+          "artist": 1,
+          "album": "My Album",
+          "length": 180
+      }
+  },
+  {
+      "model": "tunaapi.song",
+      "pk": 2,
+      "fields": {
+          "title": "Nelso-in Murfreesboro",
+          "artist": 2,
+          "album": "From Ghana",
+          "length": 102
+      }
+  },
+  {
+      "model": "tunaapi.song",
+      "pk": 3,
+      "fields": {
+          "title": "Nelson-in Nashville",
+          "artist": 3,
+          "album": "From Cameroon",
+          "length": 135
+      }
+  }
+]

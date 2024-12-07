@@ -1,0 +1,29 @@
+[
+  {
+      "model": "tunaapi.artist",
+      "pk": 1,
+      "fields": {
+          "name": "Jason Derulo",
+          "age": 41,
+          "bio": "African American artist from California"
+      }
+  },
+  {
+      "model": "tunaapi.artist",
+      "pk": 2,
+      "fields": {
+          "name": "Nelson NGaleumo",
+          "age": 30,
+          "bio": "African artist from Cameroon"
+      }
+  },
+  {
+      "model": "tunaapi.artist",
+      "pk": 3,
+      "fields": {
+          "name": "Olivier Nelco",
+          "age": 31,
+          "bio": "Artist musicien du COngo"
+      }
+  }
+]
